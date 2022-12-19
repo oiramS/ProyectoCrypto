@@ -1,0 +1,7 @@
+#ignonres pdf files
+*.pdf
+#ignonres image files files
+*.png
+*.jpg
+#ignores txt files 
+*.txt
